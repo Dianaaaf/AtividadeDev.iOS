@@ -1,2 +1,2 @@
-Pasta para postagem de atividades em Swift.
+## Repositório criado para postagem de atividades em Swift.
 
